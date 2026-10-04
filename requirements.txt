@@ -1,0 +1,2 @@
+# clay-notes requirements
+# No external dependencies - uses only Python built-ins
